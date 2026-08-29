@@ -87,7 +87,7 @@
 
 [Microsoft AirSim](https://microsoft.github.io/AirSim/lidar.html) is a simulator for drones, cars and more, built on Unreal Engine (with an experimental Unity release). AirSim is open-source, cross platform, and supports [software-in-the-loop simulation](https://www.mathworks.com/help///ecoder/software-in-the-loop-sil-simulation.html) with popular flight controllers such as PX4 & ArduPilot and [hardware-in-loop](https://www.ni.com/en-us/innovations/white-papers/17/what-is-hardware-in-the-loop-.html) with PX4 for physically and visually realistic simulations. It is developed as an Unreal plugin that can simply be dropped into any Unreal environment. AirSim is being developed  as a platform for AI research to experiment with deep learning, computer vision and reinforcement learning algorithms for autonomous vehicles.
 
-[CARLA](https://github.com/carla-simulator/carla) ⭐ 14,335 | 🐛 1,195 | 🌐 C++ | 📅 2026-08-28 is an open-source simulator for autonomous driving research. CARLA has been developed from the ground up to support development, training, and validation of autonomous driving systems. In addition to open-source code and protocols, CARLA provides open digital assets (urban layouts, buildings, vehicles) that were created for this purpose and can be used freely.
+[CARLA](https://github.com/carla-simulator/carla) ⭐ 14,336 | 🐛 1,195 | 🌐 C++ | 📅 2026-08-29 is an open-source simulator for autonomous driving research. CARLA has been developed from the ground up to support development, training, and validation of autonomous driving systems. In addition to open-source code and protocols, CARLA provides open digital assets (urban layouts, buildings, vehicles) that were created for this purpose and can be used freely.
 
 [ROS/ROS2 bridge for CARLA(package)](https://github.com/carla-simulator/ros-bridge) ⭐ 644 | 🐛 185 | 🌐 Python | 📅 2026-08-16 is a bridge that enables two-way communication between ROS and CARLA. The information from the CARLA server is translated to ROS topics. In the same way, the messages sent between nodes in ROS get translated to commands to be applied in CARLA.
 
@@ -382,7 +382,7 @@
 
 [Weka](https://www.cs.waikato.ac.nz/ml/weka/) is an open source machine learning software that can be accessed through a graphical user interface, standard terminal applications, or a Java API. It is widely used for teaching, research, and industrial applications, contains a plethora of built-in tools for standard machine learning tasks, and additionally gives transparent access to well-known toolboxes such as scikit-learn, R, and Deeplearning4j.
 
-[Caffe](https://github.com/BVLC/caffe) ⭐ 34,557 | 🐛 1,175 | 🌐 C++ | 📅 2024-07-31 is a deep learning framework made with expression, speed, and modularity in mind. It is developed by Berkeley AI Research (BAIR)/The Berkeley Vision and Learning Center (BVLC) and community contributors.
+[Caffe](https://github.com/BVLC/caffe) ⭐ 34,556 | 🐛 1,175 | 🌐 C++ | 📅 2024-07-31 is a deep learning framework made with expression, speed, and modularity in mind. It is developed by Berkeley AI Research (BAIR)/The Berkeley Vision and Learning Center (BVLC) and community contributors.
 
 [Theano](https://github.com/Theano/Theano) ⭐ 9,998 | 🐛 699 | 🌐 Python | 📅 2024-01-15 is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently including tight integration with NumPy.
 
@@ -412,7 +412,7 @@
 
 [XGBoost](https://xgboost.readthedocs.io/) is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework. XGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way. It supports distributed training on multiple machines, including AWS, GCE, Azure, and Yarn clusters. Also, it can be integrated with Flink, Spark and other cloud dataflow systems.
 
-[cuML](https://github.com/rapidsai/cuml) ⭐ 5,268 | 🐛 844 | 🌐 Python | 📅 2026-08-28 is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects. cuML enables data scientists, researchers, and software engineers to run traditional tabular ML tasks on GPUs without going into the details of CUDA programming. In most cases, cuML's Python API matches the API from scikit-learn.
+[cuML](https://github.com/rapidsai/cuml) ⭐ 5,269 | 🐛 844 | 🌐 Python | 📅 2026-08-28 is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects. cuML enables data scientists, researchers, and software engineers to run traditional tabular ML tasks on GPUs without going into the details of CUDA programming. In most cases, cuML's Python API matches the API from scikit-learn.
 
 # CUDA Development
 
@@ -462,7 +462,7 @@
 
 [Minkowski Engine](https://nvidia.github.io/MinkowskiEngine) is an auto-differentiation library for sparse tensors. It supports all standard neural network layers such as convolution, pooling, unpooling, and broadcasting operations for sparse tensors.
 
-[CUTLASS](https://github.com/NVIDIA/cutlass) ⭐ 10,338 | 🐛 698 | 🌐 C++ | 📅 2026-08-28 is a collection of CUDA C++ template abstractions for implementing high-performance matrix-multiplication (GEMM) at all levels and scales within CUDA. It incorporates strategies for hierarchical decomposition and data movement similar to those used to implement cuBLAS.
+[CUTLASS](https://github.com/NVIDIA/cutlass) ⭐ 10,339 | 🐛 700 | 🌐 C++ | 📅 2026-08-28 is a collection of CUDA C++ template abstractions for implementing high-performance matrix-multiplication (GEMM) at all levels and scales within CUDA. It incorporates strategies for hierarchical decomposition and data movement similar to those used to implement cuBLAS.
 
 [CUB](https://github.com/NVIDIA/cub) ⚠️ Archived is a cooperative primitives for CUDA C++ kernel authors.
 
@@ -478,7 +478,7 @@
 
 [cuDF](https://rapids.ai/) is a GPU DataFrame library for loading, joining, aggregating, filtering, and otherwise manipulating data. cuDF provides a pandas-like API that will be familiar to data engineers & data scientists, so they can use it to easily accelerate their workflows without going into the details of CUDA programming.
 
-[cuML](https://github.com/rapidsai/cuml) ⭐ 5,268 | 🐛 844 | 🌐 Python | 📅 2026-08-28 is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects. cuML enables data scientists, researchers, and software engineers to run traditional tabular ML tasks on GPUs without going into the details of CUDA programming. In most cases, cuML's Python API matches the API from scikit-learn.
+[cuML](https://github.com/rapidsai/cuml) ⭐ 5,269 | 🐛 844 | 🌐 Python | 📅 2026-08-28 is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects. cuML enables data scientists, researchers, and software engineers to run traditional tabular ML tasks on GPUs without going into the details of CUDA programming. In most cases, cuML's Python API matches the API from scikit-learn.
 
 [ArrayFire](https://arrayfire.com/) is a general-purpose library that simplifies the process of developing software that targets parallel and massively-parallel architectures including CPUs, GPUs, and other hardware acceleration devices.
 
@@ -676,7 +676,7 @@
 
 [WebODM](https://www.opendronemap.org/webodm/) is a user-friendly, commercial grade software for drone image processing. Generate georeferenced maps, point clouds, elevation models and textured 3D models from aerial images. It supports multiple engines for processing, currently [ODM](https://github.com/OpenDroneMap/ODM) ⭐ 6,425 | 🐛 112 | 🌐 Python | 📅 2026-08-26 and [MicMac](https://github.com/dronemapper-io/NodeMICMAC/) ⭐ 98 | 🐛 9 | 🌐 JavaScript | 📅 2024-11-11.
 
-[NodeODM](https://www.opendronemap.org/nodeodm/) is a [standard API specification](https://github.com/OpenDroneMap/NodeODM/blob/master/docs/index.adoc) ⭐ 301 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-25 for processing aerial images with engines such as [ODM](https://github.com/OpenDroneMap/ODM) ⭐ 6,425 | 🐛 112 | 🌐 Python | 📅 2026-08-26. The API is used by clients such as [WebODM](https://github.com/OpenDroneMap/WebODM) ⭐ 4,121 | 🐛 50 | 🌐 Python | 📅 2026-08-28, [CloudODM](https://github.com/OpenDroneMap/CloudODM) ⭐ 72 | 🐛 7 | 🌐 Go | 📅 2023-12-18 and [PyODM](https://github.com/OpenDroneMap/PyODM) ⭐ 118 | 🐛 1 | 🌐 Python | 📅 2025-01-20.
+[NodeODM](https://www.opendronemap.org/nodeodm/) is a [standard API specification](https://github.com/OpenDroneMap/NodeODM/blob/master/docs/index.adoc) ⭐ 301 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-25 for processing aerial images with engines such as [ODM](https://github.com/OpenDroneMap/ODM) ⭐ 6,425 | 🐛 112 | 🌐 Python | 📅 2026-08-26. The API is used by clients such as [WebODM](https://github.com/OpenDroneMap/WebODM) ⭐ 4,122 | 🐛 50 | 🌐 Python | 📅 2026-08-28, [CloudODM](https://github.com/OpenDroneMap/CloudODM) ⭐ 72 | 🐛 7 | 🌐 Go | 📅 2023-12-18 and [PyODM](https://github.com/OpenDroneMap/PyODM) ⭐ 118 | 🐛 1 | 🌐 Python | 📅 2025-01-20.
 
 \[ClusterODM]<https://www.opendronemap.org/clusterodm/>) is a reverse proxy, load balancer and task tracker with optional cloud autoscaling capabilities for NodeODM API compatible nodes. In a nutshell, it's a program to link together multiple NodeODM API compatible nodes under a single network address.
 
@@ -1139,7 +1139,7 @@ commercially available industrial robot models that you can import, visualize, a
 
 [AliceVision](https://github.com/alicevision/AliceVision) ⭐ 3,486 | 🐛 38 | 🌐 C++ | 📅 2026-08-28 is a Photogrammetric Computer Vision Framework which provides a 3D Reconstruction and Camera Tracking algorithms. AliceVision aims to provide strong software basis with state-of-the-art computer vision algorithms that can be tested, analyzed and reused. The project is a result of collaboration between academia and industry to provide cutting-edge algorithms with the robustness and the quality required for production usage.
 
-[CARLA](https://github.com/carla-simulator/carla) ⭐ 14,335 | 🐛 1,195 | 🌐 C++ | 📅 2026-08-28 is an open-source simulator for autonomous driving research. CARLA has been developed from the ground up to support development, training, and validation of autonomous driving systems. In addition to open-source code and protocols, CARLA provides open digital assets (urban layouts, buildings, vehicles) that were created for this purpose and can be used freely. The simulation platform supports flexible specification of sensor suites and environmental conditions.
+[CARLA](https://github.com/carla-simulator/carla) ⭐ 14,336 | 🐛 1,195 | 🌐 C++ | 📅 2026-08-29 is an open-source simulator for autonomous driving research. CARLA has been developed from the ground up to support development, training, and validation of autonomous driving systems. In addition to open-source code and protocols, CARLA provides open digital assets (urban layouts, buildings, vehicles) that were created for this purpose and can be used freely. The simulation platform supports flexible specification of sensor suites and environmental conditions.
 
 [ROS bridge](https://github.com/carla-simulator/ros-bridge) ⭐ 644 | 🐛 185 | 🌐 Python | 📅 2026-08-16 is a package to bridge ROS for CARLA Simulator.
 
@@ -1572,7 +1572,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Visual Studio Code](https://code.visualstudio.com/) is a code editor redefined and optimized for building and debugging modern web and cloud applications.
 
-[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,404 | 🐛 1,216 | 🌐 CMake | 📅 2026-08-28 is a C++ Library Manager for Windows, Linux, and MacOS.
+[Vcpkg](https://github.com/microsoft/vcpkg) ⭐ 27,404 | 🐛 1,217 | 🌐 CMake | 📅 2026-08-28 is a C++ Library Manager for Windows, Linux, and MacOS.
 
 [ReSharper C++](https://www.jetbrains.com/resharper-cpp/features/) is a Visual Studio Extension for C++ developers developed by JetBrains.
 
@@ -1624,7 +1624,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Cython](https://cython.org/) is a language that makes writing C extensions for Python as easy as Python itself. Cython is based on Pyrex, but supports more cutting edge functionality and optimizations such as calling C functions and declaring C types on variables and class attributes.
 
-[Spdlog](https://github.com/gabime/spdlog) ⭐ 29,540 | 🐛 50 | 🌐 C++ | 📅 2026-08-08 is a very fast, header-only/compiled, C++ logging library.
+[Spdlog](https://github.com/gabime/spdlog) ⭐ 29,541 | 🐛 50 | 🌐 C++ | 📅 2026-08-08 is a very fast, header-only/compiled, C++ logging library.
 
 [Infer](https://fbinfer.com/) is a static analysis tool for Java, C++, Objective-C, and C. Infer is written in [OCaml](https://ocaml.org/).
 
@@ -1703,7 +1703,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Sentry](https://sentry.io/) is a service that helps you monitor and fix crashes in realtime. The server is in Python, but it contains a full API for sending events from any language, in any application.
 
-[Pipenv](https://github.com/pypa/pipenv) ⭐ 25,034 | 🐛 13 | 🌐 Python | 📅 2026-08-24 is a tool that aims to bring the best of all packaging worlds (bundler, composer, npm, cargo, yarn, etc.) to the Python world.
+[Pipenv](https://github.com/pypa/pipenv) ⭐ 25,035 | 🐛 13 | 🌐 Python | 📅 2026-08-24 is a tool that aims to bring the best of all packaging worlds (bundler, composer, npm, cargo, yarn, etc.) to the Python world.
 
 [Python Fire](https://github.com/google/python-fire) ⭐ 28,211 | 🐛 194 | 🌐 Python | 📅 2026-07-01 is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 
@@ -1788,7 +1788,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Rplugin](https://github.com/JetBrains/Rplugin) ⭐ 70 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-27 is R Language supported plugin for the IntelliJ IDE.
 
-[Plotly](https://plotly-r.com/) is an R package for creating interactive web graphics via the open source JavaScript graphing library [plotly.js](https://github.com/plotly/plotly.js) ⭐ 18,306 | 🐛 772 | 🌐 JavaScript | 📅 2026-08-27.
+[Plotly](https://plotly-r.com/) is an R package for creating interactive web graphics via the open source JavaScript graphing library [plotly.js](https://github.com/plotly/plotly.js) ⭐ 18,305 | 🐛 772 | 🌐 JavaScript | 📅 2026-08-27.
 
 [Metaflow](https://metaflow.org/) is a Python/R library that helps scientists and engineers build and manage real-life data science projects. Metaflow was originally developed at Netflix to boost productivity of data scientists who work on a wide variety of projects from classical statistics to state-of-the-art deep learning.
 
@@ -1859,7 +1859,7 @@ The set of eigenvectors of a matrix is a special set of input vectors for which 
 
 [Profile (Stdlib)](https://docs.julialang.org/en/v1/manual/profile/) is a module provides tools to help developers improve the performance of their code. When used, it takes measurements on running code, and produces output that helps you understand how much time is spent on individual line's.
 
-[Revise.jl](https://github.com/timholy/Revise.jl) ⭐ 1,354 | 🐛 13 | 🌐 Julia | 📅 2026-08-28 allows you to modify code and use the changes without restarting Julia. With Revise, you can be in the middle of a session and then update packages, switch git branches, and/or edit the source code in the editor of your choice; any changes will typically be incorporated into the very next command you issue from the REPL. This can save you the overhead of restarting Julia, loading packages, and waiting for code to JIT-compile.
+[Revise.jl](https://github.com/timholy/Revise.jl) ⭐ 1,354 | 🐛 13 | 🌐 Julia | 📅 2026-08-29 allows you to modify code and use the changes without restarting Julia. With Revise, you can be in the middle of a session and then update packages, switch git branches, and/or edit the source code in the editor of your choice; any changes will typically be incorporated into the very next command you issue from the REPL. This can save you the overhead of restarting Julia, loading packages, and waiting for code to JIT-compile.
 
 [JuliaGPU](https://juliagpu.org/) is a Github organization created to unify the many packages for programming GPUs in Julia. With its high-level syntax and flexible compiler, Julia is well positioned to productively program hardware accelerators like GPUs without sacrificing performance.
 
