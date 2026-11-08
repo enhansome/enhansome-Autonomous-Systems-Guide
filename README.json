@@ -15,11 +15,11 @@
             "id": 108102826,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-07T08:29:38Z",
-            "open_issues": 1229,
+            "last_commit": "2026-11-07T23:05:54Z",
+            "open_issues": 1231,
             "owner": "carla-simulator",
             "repo": "carla",
-            "stars": 14574,
+            "stars": 14577,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -173,7 +173,7 @@
                 "open_issues": 1176,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34558,
+                "stars": 34557,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -321,7 +321,7 @@
                 "open_issues": 1847,
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11202,
+                "stars": 11203,
                 "topics": [
                   "compiler",
                   "cuda",
@@ -390,7 +390,7 @@
                 "open_issues": 0,
                 "owner": "NVIDIA",
                 "repo": "nvidia-docker",
-                "stars": 17615,
+                "stars": 17618,
                 "topics": [
                   "cuda",
                   "docker",
@@ -416,7 +416,7 @@
                 "open_issues": 844,
                 "owner": "NVIDIA",
                 "repo": "cutlass",
-                "stars": 10706,
+                "stars": 10708,
                 "topics": [
                   "cpp",
                   "cuda",
@@ -504,7 +504,7 @@
                 "open_issues": 1847,
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11202,
+                "stars": 11203,
                 "topics": [
                   "compiler",
                   "cuda",
@@ -796,7 +796,7 @@
                 "open_issues": 549,
                 "owner": "alicevision",
                 "repo": "Meshroom",
-                "stars": 13066,
+                "stars": 13067,
                 "topics": [
                   "3d-reconstruction",
                   "alicevision",
@@ -899,7 +899,7 @@
                 "open_issues": 781,
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18601,
+                "stars": 18607,
                 "topics": [
                   "ai",
                   "airsim",
@@ -938,7 +938,7 @@
                 "open_issues": 17,
                 "owner": "nasa-jpl",
                 "repo": "open-source-rover",
-                "stars": 9759,
+                "stars": 9764,
                 "topics": [
                   "diy",
                   "hardware",
@@ -998,11 +998,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-07T08:29:38Z",
-                "open_issues": 1229,
+                "last_commit": "2026-11-07T23:05:54Z",
+                "open_issues": 1231,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14574,
+                "stars": 14577,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -1195,7 +1195,7 @@
                 "open_issues": 248,
                 "owner": "isocpp",
                 "repo": "CppCoreGuidelines",
-                "stars": 45442,
+                "stars": 45447,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:16:51.517Z"
@@ -1219,7 +1219,7 @@
                 "id": 233147271,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-07T05:06:22Z",
+                "last_commit": "2026-11-08T02:16:42Z",
                 "open_issues": 143,
                 "owner": "Azure",
                 "repo": "azure-sdk-for-cpp",
@@ -1273,11 +1273,11 @@
                 "id": 111860063,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-07T06:44:10Z",
+                "last_commit": "2026-11-08T07:52:45Z",
                 "open_issues": 220,
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
-                "stars": 660,
+                "stars": 661,
                 "topics": [
                   "bigtable",
                   "cloud",
@@ -1309,11 +1309,11 @@
                 "id": 68312233,
                 "language": "CMake",
                 "license": "MIT",
-                "last_commit": "2026-11-07T08:06:50Z",
-                "open_issues": 1042,
+                "last_commit": "2026-11-08T04:44:07Z",
+                "open_issues": 1056,
                 "owner": "microsoft",
                 "repo": "vcpkg",
-                "stars": 27580,
+                "stars": 27582,
                 "topics": [
                   "c",
                   "cmake",
@@ -1454,7 +1454,7 @@
                 "open_issues": 58,
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29741,
+                "stars": 29739,
                 "topics": [
                   "cpp",
                   "cpp11",
@@ -1556,7 +1556,7 @@
                 "open_issues": 362,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38696,
+                "stars": 38699,
                 "topics": [
                   "api",
                   "api-client",
@@ -1594,7 +1594,7 @@
                 "id": 79510167,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-07T06:22:55Z",
+                "last_commit": "2026-11-07T16:27:44Z",
                 "open_issues": 5,
                 "owner": "pypa",
                 "repo": "pipenv",
@@ -1625,7 +1625,7 @@
                 "open_issues": 226,
                 "owner": "google",
                 "repo": "python-fire",
-                "stars": 28228,
+                "stars": 28226,
                 "topics": [
                   "cli",
                   "python"
@@ -1649,7 +1649,7 @@
                 "open_issues": 289,
                 "owner": "bottlepy",
                 "repo": "bottle",
-                "stars": 8798,
+                "stars": 8797,
                 "topics": [
                   "bottle",
                   "python",
@@ -1673,7 +1673,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-07-29T03:09:51Z",
-                "open_issues": 161,
+                "open_issues": 162,
                 "owner": "sanic-org",
                 "repo": "sanic",
                 "stars": 18629,
@@ -1746,7 +1746,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-14T14:29:59Z",
-                "open_issues": 194,
+                "open_issues": 195,
                 "owner": "spotify",
                 "repo": "luigi",
                 "stars": 18781,
@@ -1773,7 +1773,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-06T21:44:31Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "locustio",
                 "repo": "locust",
                 "stars": 28268,
@@ -1809,7 +1809,7 @@
                 "open_issues": 265,
                 "owner": "explosion",
                 "repo": "spaCy",
-                "stars": 34034,
+                "stars": 34037,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -1941,7 +1941,7 @@
                 "open_issues": 5,
                 "owner": "bkamins",
                 "repo": "Julia-DataFrames-Tutorial",
-                "stars": 539,
+                "stars": 540,
                 "topics": [
                   "data-frame",
                   "julia",
@@ -2020,7 +2020,7 @@
                 "open_issues": 37,
                 "owner": "JuliaLang",
                 "repo": "IJulia.jl",
-                "stars": 2909,
+                "stars": 2910,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:16:51.517Z"
@@ -2273,7 +2273,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T08:38:53.061Z",
+    "last_updated": "2026-11-08T08:53:19.215Z",
     "original_repository_info": {
       "archived": false,
       "description": "Autonomous Systems Guide",
